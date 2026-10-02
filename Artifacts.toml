@@ -1,0 +1,160 @@
+[[X42Darc]]
+arch = "aarch64"
+git-tree-sha1 = "8492a6b612a7055669e043136b0bf69c5c039834"
+os = "macos"
+
+    [[X42Darc.download]]
+    sha256 = "519d71d8a7f5599465f9db30d52ca5378c7fac0e8480f458e7939f2504e055cf"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.aarch64-apple-darwin.tar.gz"
+[[X42Darc]]
+arch = "aarch64"
+git-tree-sha1 = "54a7faaef25d42628d87c1fefc3ba6f4fca632ea"
+libc = "glibc"
+os = "linux"
+
+    [[X42Darc.download]]
+    sha256 = "fe11c7c1853cb5a59428710940f4d61dedeed5467be6fa2f5b1dc848a6a6b7ab"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.aarch64-linux-gnu.tar.gz"
+[[X42Darc]]
+arch = "aarch64"
+git-tree-sha1 = "d8f9f73e561c19fc4892f63948364b90afbd6700"
+libc = "musl"
+os = "linux"
+
+    [[X42Darc.download]]
+    sha256 = "e82ec90ee1638d03ab8d53d035f5127af2084f568c097fc1206bac505b59d02d"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.aarch64-linux-musl.tar.gz"
+[[X42Darc]]
+arch = "aarch64"
+git-tree-sha1 = "9575fba07a94b9a1cce32a2691b64031ef86ff29"
+os = "freebsd"
+
+    [[X42Darc.download]]
+    sha256 = "7b119152537817f8ef850e76ba7a3fd0f62d72c3662a21195859045c792e9c30"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.aarch64-unknown-freebsd.tar.gz"
+[[X42Darc]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "72bb7cfd07dd012080004079acea28e692b5ee7f"
+libc = "glibc"
+os = "linux"
+
+    [[X42Darc.download]]
+    sha256 = "f81350422573209c772a87adc5112dc717f101e88ea8c0481718265cd080f602"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.armv6l-linux-gnueabihf.tar.gz"
+[[X42Darc]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "da0b45df65bbd08b35488467d6027d7b8f5ec800"
+libc = "musl"
+os = "linux"
+
+    [[X42Darc.download]]
+    sha256 = "37cb010201c67dee9ea4bab961e944526b93439c783965bf05d065f2d7cbd7ab"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.armv6l-linux-musleabihf.tar.gz"
+[[X42Darc]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "088fd0b71b91407ad71472491e56ea45fdbf9c2f"
+libc = "glibc"
+os = "linux"
+
+    [[X42Darc.download]]
+    sha256 = "c2407cec8f4d98ec472c1ea224934a01598823fa5868cb86945362a3debdcaad"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.armv7l-linux-gnueabihf.tar.gz"
+[[X42Darc]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cfa58e039179cd0ade358520387f856368849c23"
+libc = "musl"
+os = "linux"
+
+    [[X42Darc.download]]
+    sha256 = "cf52347f80e73e19ff4997a97546bd064bb5c4683e6045d3e4a567b10c849916"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.armv7l-linux-musleabihf.tar.gz"
+[[X42Darc]]
+arch = "i686"
+git-tree-sha1 = "2bbb6fed37193a8dc1d64e5d5e54f027f0d0f917"
+libc = "glibc"
+os = "linux"
+
+    [[X42Darc.download]]
+    sha256 = "0c82f2a4438525b7aef4f9782b07669b0ad4f94bf6afd164dfbced96ad3d82d9"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.i686-linux-gnu.tar.gz"
+[[X42Darc]]
+arch = "i686"
+git-tree-sha1 = "7533a4bd1fce836e929182d64b947661c438e837"
+libc = "musl"
+os = "linux"
+
+    [[X42Darc.download]]
+    sha256 = "0be8639cde8ffb36953f7daf43133f4c6240477d77c4e49da7e9b16864d8e1db"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.i686-linux-musl.tar.gz"
+[[X42Darc]]
+arch = "i686"
+git-tree-sha1 = "5b4e5d4aef3904a40b09bae126f38624d806f740"
+os = "windows"
+
+    [[X42Darc.download]]
+    sha256 = "36ff73e5fbbcd61ca67c9b49135d1132b50d6f6387f96a811851e939d183ff98"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.i686-w64-mingw32.tar.gz"
+[[X42Darc]]
+arch = "powerpc64le"
+git-tree-sha1 = "42420dfa1d6237e8a7f95c9d916dada084c1c9bf"
+libc = "glibc"
+os = "linux"
+
+    [[X42Darc.download]]
+    sha256 = "da75ac10a839c3f53c3634233e934adb8068d52ba1638be1f0091c7e418271d7"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.powerpc64le-linux-gnu.tar.gz"
+[[X42Darc]]
+arch = "riscv64"
+git-tree-sha1 = "fcbef4cd9aadf8d1d97d445150527decc4ea7a33"
+libc = "glibc"
+os = "linux"
+
+    [[X42Darc.download]]
+    sha256 = "57fe97b13d5065c357ea4a219ffe8cb17546182351931f32cf1a136748f068b2"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.riscv64-linux-gnu.tar.gz"
+[[X42Darc]]
+arch = "x86_64"
+git-tree-sha1 = "e849dbbd98ec328ace2cf6d36eed2ddcd00daaae"
+os = "macos"
+
+    [[X42Darc.download]]
+    sha256 = "d315ce6d6a06992ef7d48e7009152cde83dba1bbdf54150672335f1e366c8fb8"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.x86_64-apple-darwin.tar.gz"
+[[X42Darc]]
+arch = "x86_64"
+git-tree-sha1 = "1e4eb33703c4b307ce3f45906f7279faf0881e95"
+libc = "glibc"
+os = "linux"
+
+    [[X42Darc.download]]
+    sha256 = "34c63e9094c9f4301c4441f1c4be493d413b1aff599d39376170075ef8dd884e"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.x86_64-linux-gnu.tar.gz"
+[[X42Darc]]
+arch = "x86_64"
+git-tree-sha1 = "a2c6ece9a2032a1ae9002c1a02804a0f287a3807"
+libc = "musl"
+os = "linux"
+
+    [[X42Darc.download]]
+    sha256 = "c04a89e0cb7c2b713be15d779d378d9d65029daa27568b0449192dd68fd748f7"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.x86_64-linux-musl.tar.gz"
+[[X42Darc]]
+arch = "x86_64"
+git-tree-sha1 = "b9ad4032ee2143171848f993689caf0242404473"
+os = "freebsd"
+
+    [[X42Darc.download]]
+    sha256 = "a4153165f81eddef47f956d3e2cc71d8d4322f565a8c5703dcb7678cd97481a8"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.x86_64-unknown-freebsd.tar.gz"
+[[X42Darc]]
+arch = "x86_64"
+git-tree-sha1 = "26452044f9a990020c4d5e3f985fcc40bf3be285"
+os = "windows"
+
+    [[X42Darc.download]]
+    sha256 = "d00649e1d51b1c53e24690516d4cb5f2e5f13b7a09ab3cc1352911ea9bf53505"
+    url = "https://github.com/JuliaBinaryWrappers/X42Darc_jll.jl/releases/download/X42Darc-v2025.6.6+0/X42Darc.v2025.6.6.x86_64-w64-mingw32.tar.gz"
